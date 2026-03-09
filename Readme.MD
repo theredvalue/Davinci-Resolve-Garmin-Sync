@@ -33,7 +33,7 @@ generate_calorie_hr_count(config=DisplayConfig(
 [The Red Value](https://www.youtube.com/@TheRedValue)
 
 ## Contributing
-Dunno, maybe you can do something?
+Dunno, maybe you want to do something?
 
 ### Contributors
 Me, myself and I
